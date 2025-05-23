@@ -1,0 +1,8 @@
+{
+  "name": "NovaCore",
+  "uuid": "fafe0513",
+  "mainClass": "works.nuka.nova.NovaCoreModule",
+  "author": "NukaWorks",
+  "description": "NovaCore REST-API Server",
+  "version": "1.0.0"
+}
